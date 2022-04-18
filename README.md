@@ -6,7 +6,7 @@
 
 <hr>
 
-<h3>Projects and Repositories <small>code - more code - structure enforced.</small></h3>
+<h3>Projects and Repositories <code>code - more code - structure enforced.</code></h3>
 
 Most of "my" projects are located within organization profiles to provide a more strcutured and organized view to the different kind of work. 
 

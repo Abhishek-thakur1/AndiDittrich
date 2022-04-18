@@ -1,11 +1,14 @@
+<!-- just my personal technology blog !-->
 <h2 align="center"><a href="https://andidittrich.com" >BEYOND TECHNOLOGY - beyond the visible world</a></h2>
 
+<!-- https://readme-typing-svg.herokuapp.com/demo/ !-->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=24&color=1DCB51&background=000000&center=true&vCenter=true&multiline=true&width=846&height=120&lines=Wake+Up+Neo..;Follow+the+white+rabbit.;Knock%2C+knock" alt="Typing SVG"/>
 </p>
 
 <hr>
 
+<!-- welcome to the matrix Neo !-->
 ```
 Linux github.com 2.0.34-amd64 #1 SMP Debian 2.0.34r1 (1999-06-17) x86_64
 
@@ -23,10 +26,16 @@ code - more code - structure enforced.
 
 andi@github ~/ echo "Most of "my" projects are located within organization profiles to provide \
                a more structured and organized view to the different kind of work"
+
+andi@github ~/ su aenon-dynamics
+aenon-dynamics@github ~/ echo "commercial inquiries / job requests are managed by my company. \"
+                         just send us an e-mail in case you need special software modifications \
+                         or solutions"
 ```
 
 <hr>
 
+<!-- organizations !-->
 <table>
   <tr>
     <td align="center" valign="top" width="288">      

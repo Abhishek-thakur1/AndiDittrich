@@ -7,10 +7,10 @@
 <hr>
 
 ```
-Linux github.com 5.10.0-13-amd64 #1 SMP Debian 5.10.106-1 (1999-06-17) x86_64
+Linux github.com 2.0.34-amd64 #1 SMP Debian 2.0.34r1 (1999-06-17) x86_64
 
 Thu June 17 02:16:11 UTC 1999
-Debian GNU/Linux 11 (bullseye) | 5.10.0-13-amd64
+Debian GNU/Linux 2.1 (slink) | 2.0.34-amd64
 
        _ _   _           _     
   __ _(_) |_| |__  _   _| |__  

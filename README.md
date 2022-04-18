@@ -18,12 +18,12 @@ Most of "my" projects are located within organization profiles to provide a more
 <table>
   <tr>
     <td align="center" valign="top" width="288">      
-        <h3><a href="https://github.com/EnlighterJS">EnlighterJS Syntax Highlighter</a></h3> 
+        <h3><a href="https://github.com/EnlighterJS">EnlighterJS</a></h3> 
         <br><small>an open source syntax highlighter written in pure javascript</small>
     </td>
     <td align="center" valign="top" width="288">     
-        <h3><a href="https://github.com/EnlighterJS">npkgz</a></h3>      
-        <br><small>[Node PacKaGeZ] node.js packages and utilities</small>
+        <h3><a href="https://github.com/hypersolid-os">hypersolid<</a></h3>
+        <br><small>create + manage + deploy ultra-resilient debian systems like containers</small>
     </td>
     <td align="center" valign="top" width="288">      
         <h3><a href="https://github.com/AenonDynamics">Aenon Dynamics</a></h3> 
@@ -36,8 +36,8 @@ Most of "my" projects are located within organization profiles to provide a more
         <br><small>Simple HTTP Error Page Generator</small>
     </td>
     <td align="center" valign="top" width="288">     
-        <h3><a href="https://github.com/hypersolid-os">hypersolid<</a> /h3>      
-        <br><small>create + manage + deploy ultra-resilient debian systems like containers</small>
+        <h3><a href="https://github.com/EnlighterJS">npkgz</a></h3>      
+        <br><small>[Node PacKaGeZ] node.js packages and utilities</small>
     </td>
     <td align="center" valign="top" width="288">
     </td>   

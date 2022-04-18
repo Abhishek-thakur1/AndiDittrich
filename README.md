@@ -6,9 +6,24 @@
 
 <hr>
 
-<h3>Projects and Repositories <code>code - more code - structure enforced.</code></h3>
+```
+Linux github.com 5.10.0-13-amd64 #1 SMP Debian 5.10.106-1 (1999-06-17) x86_64
 
-Most of "my" projects are located within organization profiles to provide a more strcutured and organized view to the different kind of work. 
+Thu June 17 02:16:11 UTC 1999
+Debian GNU/Linux 11 (bullseye) | 5.10.0-13-amd64
+
+       _ _   _           _     
+  __ _(_) |_| |__  _   _| |__  
+ / _` | | __| '_ \| | | | '_ \ 
+| (_| | | |_| | | | |_| | |_) |
+ \__, |_|\__|_| |_|\__,_|_.__/ 
+ |___/                         
+
+code - more code - structure enforced.
+
+andi@github ~/ echo "Most of "my" projects are located within organization profiles to provide \
+               a more structured and organized view to the different kind of work"
+```
 
 <hr>
 
@@ -36,8 +51,10 @@ Most of "my" projects are located within organization profiles to provide a more
         <h3><a href="https://github.com/EnlighterJS">npkgz</a></h3>      
         <br><small>[Node PacKaGeZ] node.js packages and utilities</small>
     </td>
-    <td align="center" valign="top" width="288">
-    </td>   
+    <td align="center" valign="top" width="288">     
+        <h3><a href="https://github.com/AndiDittrich">AndiDittrich</a></h3>      
+        <br><small>different languages, different styles and all the daily stuff</small>
+    </td>
   </tr>
 </table>
 
